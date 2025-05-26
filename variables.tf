@@ -1,0 +1,1 @@
+# Globaalsete muutujate fail (vajadusel lisa)

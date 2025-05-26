@@ -1,0 +1,10 @@
+# Terraform cache and state
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
+# OS ja IDE failid
+*.log
+.vscode/
+*.exe
